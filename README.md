@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Raja Mondal  
 
-💻 **Backend Developer | MCA Graduate | Tech Enthusiast**  
+💻 **Backend Developer | Tech Enthusiast**  
 
 Welcome to my GitHub profile! I enjoy building scalable applications, exploring machine learning, and working on real-world projects that solve meaningful problems.  
 
